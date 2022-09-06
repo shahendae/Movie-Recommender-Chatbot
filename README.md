@@ -16,4 +16,4 @@ A simple Android Application that can show the movie recommendations for differe
 
 Enabled Chatbot Using Google’s Dialogflow:
 
-![image](images/testing.png)
+![image](images/google.png)
